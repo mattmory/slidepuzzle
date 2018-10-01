@@ -120,7 +120,7 @@ class App extends Component {
             />
           ))
           :
-          (<div><img className="App-fullImg" src="../images/tricycle.jpg" alt="tricycle"/></div>)}
+          (<div><img className="App-fullImg" src="./images/tricycle.jpg" alt="tricycle"/></div>)}
         </div>
         <div>
           <br />
