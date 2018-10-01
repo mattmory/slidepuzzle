@@ -1,0 +1,70 @@
+.tile-div {
+  padding: 0;
+  margin: 0;
+  width: 99px;
+  height: 99px;
+  position: absolute;
+}
+
+.tile-img {
+  height: 99px;
+  width: 99px;
+}
+
+#blank {
+  border: 0;
+}
+
+#tile1 {
+  top: 0px;
+  left: 0px;
+  border: 1px solid #000000;
+}
+
+#tile2 {
+  top: 0px;
+  left: 100px;
+  border: 1px solid #000000;
+}
+
+#tile3 {
+  top: 0px;
+  left: 200px;
+  border: 1px solid #000000;
+}
+
+#tile4 {
+  top: 100px;
+  left: 0px;
+  border: 1px solid #000000;
+}
+
+#tile5 {
+  top: 100px;
+  left: 100px;
+  border: 1px solid #000000;
+}
+
+#tile6 {
+  top: 100px;
+  left: 200px;
+  border: 1px solid #000000;
+}
+
+#tile7 {
+  top: 200px;
+  left: 0px;
+  border: 1px solid #000000;
+}
+
+#tile8 {
+  top: 200px;
+  left: 100px;
+  border: 1px solid #000000;
+}
+
+#tile9 {
+  top: 200px;
+  left: 200px;
+  border: 1px solid #000000;
+}
