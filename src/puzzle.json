@@ -4,62 +4,62 @@
       "name": "1",
       "sortOrder": 1,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-0-0.jpg"
+      "imgSrc": "./images/tricycle-0-0.jpg"
   },
   {
       "id": 2,
       "name": "2",
       "sortOrder": 2,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-0-1.jpg"
+      "imgSrc": "./images/tricycle-0-1.jpg"
   },
   {
       "id": 3,
       "name": "3",
       "sortOrder": 3,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-0-2.jpg"
+      "imgSrc": "./images/tricycle-0-2.jpg"
   },
   {
       "id": 4,
       "name": "4",
       "sortOrder": 4,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-1-0.jpg"
+      "imgSrc": "./images/tricycle-1-0.jpg"
   },
   {
       "id": 5,
       "name": "5",
       "sortOrder": 5,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-1-1.jpg"
+      "imgSrc": "./images/tricycle-1-1.jpg"
   },
   {
       "id": 6,
       "name": "6",
       "sortOrder": 6,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-1-2.jpg"
+      "imgSrc": "./images/tricycle-1-2.jpg"
   },
   {
       "id": 7,
       "name": "7",
       "sortOrder": 7,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-2-0.jpg"
+      "imgSrc": "./images/tricycle-2-0.jpg"
   },
   {
       "id": 8,
       "name": "8",
       "sortOrder": 8,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-2-1.jpg"
+      "imgSrc": "./images/tricycle-2-1.jpg"
   },
   {
       "id": "blank",
       "name": "",
       "sortOrder": 9,
       "correctSpot": true,
-      "imgSrc": "./Images/tricycle-2-2.jpg"
+      "imgSrc": "./images/tricycle-2-2.jpg"
   }
 ]
